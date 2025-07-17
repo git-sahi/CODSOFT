@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Nikhil Sharma",
+        "contact": "9876543210",
+        "email": "nikhil@example.email.com",
+        "address": "Delhi"
+    },
+    {
+        "name": "Priya Singh",
+        "contact": "9123456789",
+        "email": "priya@example.email.com",
+        "address": "Mumbai"
+    },
+    {
+        "name": "Aarav Mehta",
+        "contact": "9988776655",
+        "email": "aarav@example.email.com",
+        "address": "Ahmedabad"
+    },
+    {
+        "name": "Sneha Iyer",
+        "contact": "9765432109",
+        "email": "sneha@example.email.com",
+        "address": "Chennai"
+    },
+    {
+        "name": "Rohit Kapoor",
+        "contact": "9345612780",
+        "email": "rohit@example.email.com",
+        "address": "Pune"
+    },
+    {
+        "name": "Ishita Verma",
+        "contact": "9001234567",
+        "email": "ishita@example.email.com",
+        "address": "Lucknow"
+    },
+    {
+        "name": "Aditya Reddy",
+        "contact": "9234567890",
+        "email": "aditya@example.email.com",
+        "address": "Hyderabad"
+    },
+    {
+        "name": "Kavya Nair",
+        "contact": "9567890123",
+        "email": "kavya@example.email.com",
+        "address": "Kochi"
+    },
+    {
+        "name": "Varun Mehta",
+        "contact": "9012345678",
+        "email": "varun@example.email.com",
+        "address": "Bhopal"
+    },
+    {
+        "name": "Neha Das",
+        "contact": "9786543210",
+        "email": "neha@example.email.com",
+        "address": "Kolkata"
+    },
+    {
+        "name": "Manav Saxena",
+        "contact": "9654321876",
+        "email": "manav@example.email.com",
+        "address": "Noida"
+    },
+    {
+        "name": "Riya Chatterjee",
+        "contact": "9098765432",
+        "email": "riya@example.email.com",
+        "address": "Guwahati"
+    },
+    {
+        "name": "Tanmay Bhatt",
+        "contact": "9321654780",
+        "email": "tanmay@example.email.com",
+        "address": "Indore"
+    },
+    {
+        "name": "Meera Menon",
+        "contact": "9874563210",
+        "email": "meera@example.email.com",
+        "address": "Trivandrum"
+    },
+    {
+        "name": "Siddharth Jain",
+        "contact": "9123765480",
+        "email": "siddharth@example.email.com",
+        "address": "Jaipur"
+    },
+    {
+        "name": "Ananya Pillai",
+        "contact": "9783012345",
+        "email": "ananya@example.email.com",
+        "address": "Bangalore"
+    },
+    {
+        "name": "Raj Malhotra",
+        "contact": "9812345678",
+        "email": "raj@example.email.com",
+        "address": "Amritsar"
+    },
+    {
+        "name": "Tanya Sehgal",
+        "contact": "9876501234",
+        "email": "tanya@example.email.com",
+        "address": "Chandigarh"
+    },
+    {
+        "name": "Yash Khanna",
+        "contact": "9008765432",
+        "email": "yash@example.email.com",
+        "address": "Patna"
+    },
+    {
+        "name": "Sanya Kulkarni",
+        "contact": "9345001122",
+        "email": "sanya@example.email.com",
+        "address": "Nagpur"
+    },
+    {
+        "name": "Ayaan Srivastava",
+        "contact": "9112233445",
+        "email": "ayaan@example.email.com",
+        "address": "Varanasi"
+    },
+    {
+        "name": "Diya Bansal",
+        "contact": "9090909090",
+        "email": "diya@example.email.com",
+        "address": "Meerut"
+    },
+    {
+        "name": "Parth Deshmukh",
+        "contact": "9555555555",
+        "email": "parth@example.email.com",
+        "address": "Nashik"
+    },
+    {
+        "name": "Pooja Agrawal",
+        "contact": "9666666666",
+        "email": "pooja@example.email.com",
+        "address": "Kanpur"
+    },
+    {
+        "name": "Karan Chopra",
+        "contact": "9777777777",
+        "email": "karan@example.email.com",
+        "address": "Surat"
+    }
+]
