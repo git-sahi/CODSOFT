@@ -1,5 +1,5 @@
 1. For this Contact Book, I’ve used Object-Oriented Programming (OOP) to manage contact data and save it in a JSON file. I’ve also built an 
-interactive GUI using tkinter for user convenience.
+interactive GUI using ttk for user convenience.
 
 2. I’ve included a dummy JSON file with fake contact details just for testing purposes—that's also pushed into this GitHub repo.
 
