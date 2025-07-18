@@ -30,7 +30,7 @@ def PassHard(length):  #numbers, letter and symbols
     Hardpwd =  ''.join(r.choice(characters) for i in range(length))
     return Hardpwd
 
-6. Lastly, I used Tkinter to create a GUI version of the program.
+6. Lastly, I used ttk to create a GUI version of the program.
    So now I have two versions:
 
    * One that runs on the command line
